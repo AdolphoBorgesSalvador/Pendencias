@@ -1,0 +1,11 @@
+# Ignorar a pasta Arquivos e todo o seu conteúdo
+Arquivos/
+
+# Ignorar a planilha Mapa.xlsx em qualquer diretório
+Mapa.xlsx
+
+# Ignorar arquivos temporários e ocultos comuns
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db

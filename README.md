@@ -41,4 +41,5 @@ Este projeto é uma automação para análise e manipulação de dados relaciona
 ### Configuração
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+   git clone https://github.com/AdolphoBorgesSalvador/Pendencias.git
+   
